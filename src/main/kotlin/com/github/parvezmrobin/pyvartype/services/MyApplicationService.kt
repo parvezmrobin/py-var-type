@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.parvezmrobin.pyvartype.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.parvezmrobin.pyvartype.MyBundle
 
 class MyApplicationService {
 
